@@ -13,7 +13,6 @@ I'm a QA Engineer passionate about test automation and software quality. My main
 * **Programming languages:** Java
 * **Automation tools:** Selenium WebDriver
 * **Testing frameworks:** TestNG
-* **Methodologies:** Functional testing, regression testing, integration testing.
 
 ## Featured projects
 
@@ -25,6 +24,5 @@ Here you can include a list of your most relevant projects, with a brief descrip
 ## Contact
 
 * [Your LinkedIn profile](https://www.linkedin.com/in/nestorgomezb/)
-* [Your email address](nestorgomez044@gmail.com)
 
 Thank you for visiting my profile!
