@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nestor Gomez
 
-<!--
-**nestorgomezb/nestorgomezb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a QA Engineer passionate about test automation and software quality. My main focus is to ensure the delivery of robust and bug-free products.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* QA Automation Junior with experience in Selenium WebDriver, Java, and TestNG.
+* Focused on creating automated test scripts and continuously improving QA processes.
+* Interested in learning and applying new technologies and methodologies in the field of test automation.
+
+## Technical skills
+
+* **Programming languages:** Java
+* **Automation tools:** Selenium WebDriver
+* **Testing frameworks:** TestNG
+* **Methodologies:** Functional testing, regression testing, integration testing.
+
+## Featured projects
+
+Here you can include a list of your most relevant projects, with a brief description of each and links to the corresponding repositories. For example:
+
+* **Project 1:** Web application test automation using Selenium WebDriver and Java. [Repository link](https://github.com/nestorgomezb/RepoAutomation)
+* **Project 2:** Creation of a TestNG test framework for API validation. [Repository link](REPOSITORY_URL)
+
+## Contact
+
+* [Your LinkedIn profile](https://www.linkedin.com/in/nestorgomezb/)
+* [Your email address](nestorgomez044@gmail.com)
+
+Thank you for visiting my profile!
