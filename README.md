@@ -19,7 +19,7 @@ I'm a QA Engineer passionate about test automation and software quality. My main
 Here you can include a list of your most relevant projects, with a brief description of each and links to the corresponding repositories. For example:
 
 * **Project 1:** Tests performed on a web application using Selenium WebDriver and Java in the QA automation course. [Repository link](https://github.com/nestorgomezb/RepoAutomation)
-* **Project 2:** Creation of a TestNG test framework for API validation. [Repository link](REPOSITORY_URL)
+* **Project 2:** This repository contains a QA automation testing project for a login page, developed in Java, using Maven for dependency management and TestNG as the testing framework. [Repository link](https://github.com/nestorgomezb/paginaLogin)
 
 ## Contact
 
